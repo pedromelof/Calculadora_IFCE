@@ -1,4 +1,4 @@
-import Foundation
+import Foundation  // Biblioteca do Swift para facilitar algumas funcionalidades
 
 var novaOperacao = "S" // Nova operação começa como sim, indicando que o usuário quer fazer uma nova operação
 var nomeOperacao = "" // Nome da operação que o usuário escolheu, iniciando em vazio, já que não escolheu nada ainda
